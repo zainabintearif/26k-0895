@@ -18,5 +18,15 @@
 ## Projects
 - **Student Management System** - Build using C++
 - **Calculator Application** - A basic Calculator software built using Programming Fundamentals Lab.
+
+## Hobbies & Extracurriculars 
+1. Competitive Programs
+   - [x] Master Basic Control Structures
+   - [ ] Solve 50 problems on LeetCode
+3. Digital Art and design
+4. Reading Articles, blogs and novels
+5. Doing craft works
+
+
   
   
